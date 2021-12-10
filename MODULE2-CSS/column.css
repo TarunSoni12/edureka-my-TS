@@ -1,0 +1,16 @@
+.col{
+    border: 1px solid #fff;
+    height: 500px;
+    margin: 25px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+
+.h2{
+    color: #192f60;
+}
+
+.form-select{
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
